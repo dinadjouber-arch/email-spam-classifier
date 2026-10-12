@@ -98,4 +98,4 @@ Après entraînement, le script affiche :
 
 Développé par DJOUBER Dina.
 
-Ce projet a été réalisé pour apprendre concrètement comment fonctionne un pipeline de classification de texte de bout en bout : équilibrage du dataset, prétraitement du texte, tokenisation, modèle LSTM, et tout le débogage pratique qui va avec (configuration de l'environnement, un bug de padding/masking qui a silencieusement empêché l'entraînement de fonctionner, adaptation du code à un dataset avec un format de colonnes différent, etc.).
+Ce projet a été réalisé pour apprendre concrètement comment fonctionne un pipeline de classification de texte de bout en bout : équilibrage du dataset, prétraitement du texte, tokenisation, modèle LSTM, et tout le débogage pratique qui va avec.
