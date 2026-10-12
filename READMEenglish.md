@@ -104,4 +104,3 @@ Developed by **DJOUBER Dina**.
 
 This project was developed to gain hands-on experience with an end-to-end text classification pipeline, including dataset balancing, text preprocessing, tokenization, LSTM modeling, and practical debugging.
 
-The project also provided an opportunity to work on real-world development challenges, including padding and masking issues, adapting the code to datasets with different column formats, and configuring the development environment.
